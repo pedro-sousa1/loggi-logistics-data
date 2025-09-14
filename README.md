@@ -1,7 +1,7 @@
 # Análise Exploratória de Dados Logística da Loggi
 
 
-![alt text](https://github.com/kedimo-cd/Analise_Logistica_da_loggi/blob/main/img/Loggi.png)
+![alt text](https://github.com/pedro-sousa1/loggi-logistics-data/blob/main/img/Loggi.png)
 *******
 # 1. O que é a Loggi
 
@@ -15,7 +15,7 @@ A Loggi é uma startup unicórnio brasileira de tecnologia focada em logística.
 # 3. Estratégia de Solução
  Como estratégia, adotei a prática do método CRISP-DM.Embora iremos usar somente as primeiras etapas, este método é voltado para a resolução rápida pro problema, onde nos primeiros ciclos já é possível gerar valor para o time de negócio. 
  A imagem abaixo ilustra como funciona:
-![alt text](https://github.com/kedimo-cd/Analise_Logistica_da_loggi/blob/main/img/CRISP-DM.png)
+![alt text](https://github.com/pedro-sousa1/loggi-logistics-data/blob/main/img/CRISP-DM.png)
 
 # 4. Coleta de Dados
 
@@ -45,20 +45,20 @@ Seguindo a metodologia do CRIP-DM, a etapa a seguir é a limpeza e transformaç�
 O Objetivo desta etapa foi analisar os dados para gerar insights. Para isso, foram utilizados os dados de forma visual para levantamento e validação de algumas hipóteses. Abaixo você poderá observar algumas dessas análises. 
 
 ### Entregas por região no DF
-![alt text](https://github.com/kedimo-cd/Analise_Logistica_da_loggi/blob/main/img/mapa_hub_tabela.png)
+![alt text](https://github.com/pedro-sousa1/loggi-logistics-data/blob/main/img/mapa_hub_tabela.png)
 
 - **Visualização**
 
-![alt text](https://github.com/kedimo-cd/Analise_Logistica_da_loggi/blob/main/img/mapa_hub_df.png)
+![alt text](https://github.com/pedro-sousa1/loggi-logistics-data/blob/main/img/mapa_hub_df.png)
 
 
 ### Proporção de entregas por região
 
-![alt text](https://github.com/kedimo-cd/Analise_Logistica_da_loggi/blob/main/img/Percentual%20_entregas_regiao.png)
+![alt text](https://github.com/pedro-sousa1/loggi-logistics-data/blob/main/img/Percentual%20_entregas_regiao.png)
 
 - **Visualização**
 
-![alt text](https://github.com/kedimo-cd/Analise_Logistica_da_loggi/blob/main/img/Entregas_por_regiao.png)
+![alt text](https://github.com/pedro-sousa1/loggi-logistics-data/blob/main/img/Entregas_por_regiao.png)
 
 # 7. Insights gerados
 
@@ -71,4 +71,4 @@ O Objetivo desta etapa foi analisar os dados para gerar insights. Para isso, for
 # 8. Contato
 
 Este projeto foi inteiramente desenvolvido por mim com base nos conceitos ensinados no curso Formação Analista de Dados EBAC. Fique a vontade para entrar em contato comigo através do meu LinkedIN.
-Conecte-se comigo no meu [Linkedin](https://www.linkedin.com/in/k%C3%A9dimo-alc%C3%A2ntara-4371ab234/).
+Conecte-se comigo no meu [Linkedin](https://www.linkedin.com/in/pedro-sousa-359a3b311/).
